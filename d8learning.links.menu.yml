@@ -1,0 +1,6 @@
+d8learning.color_details_form:
+  title: 'Configure Color details'
+  route_name: d8learning.color_details_form
+  description: 'Configure color details.'
+  parent: system.admin_config_system
+  weight: 99

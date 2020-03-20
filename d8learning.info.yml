@@ -1,0 +1,5 @@
+name: 'd8learning'
+type: module
+description: 'This module is an example of dependency injection.'
+core: 8.x
+package: 'TA Digital'

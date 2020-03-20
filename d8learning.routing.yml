@@ -1,0 +1,9 @@
+d8learning.color_details_form:
+  path: '/admin/config/d8learning/color-details'
+  defaults:
+    _form: '\Drupal\d8learning\Form\ColorDetailsForm'
+    _title: 'Color details'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
